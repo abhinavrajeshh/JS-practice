@@ -20,3 +20,16 @@
 // const percentage = actual / max;
 
 // console.log(percentage);
+
+
+let day = 2 ;
+switch (day){
+    case 1:
+        console.log("Its sunday");
+        break;
+        case 2:
+            console.log("tuesday");
+            break;
+            default:
+                console.log("INVALID bro");
+}
